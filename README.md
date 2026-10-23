@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Jip de Buck! 👋
+I am an MSc Astronomy & Data Science student at Leiden University. Here to bridge the gap between data science and astronomy! 
+
+### 🔭 Research interests
+- Cosmology and large-scale structure
+- Galaxy evolution
+- Computational and statistical methods in astrophysics
+
+### 🚀 Projects
+- [**binz**](https://github.com/jipdebuck/binz) - A Python package for reconstructing tomographic redshift distributions using Gaussian processes and normalizing flows. 
 
 <!--
 **jipdebuck/jipdebuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
