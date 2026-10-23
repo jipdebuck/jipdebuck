@@ -7,7 +7,7 @@ I am an MSc Astronomy & Data Science student at Leiden University. Here to bridg
 - Computational and statistical methods in astrophysics
 
 ### 🚀 Projects
-- [**binz**](https://github.com/jipdebuck/binz) - A Python package for reconstructing tomographic redshift distributions using Gaussian processes and normalizing flows. 
+- [**binz**](https://github.com/jipdebuck/binz) - A Python package for reconstructing tomographic redshift distributions for Stage-IV dark energy surveys using Gaussian processes and normalizing flows. 
 
 <!--
 **jipdebuck/jipdebuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
